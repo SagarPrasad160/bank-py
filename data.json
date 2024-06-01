@@ -2,11 +2,21 @@
    {
       "name": "Colt Steele",
       "password": "Colt",
-      "balance": 1900.0
+      "balance": 1000
    },
    {
       "name": "James Miller",
       "password": "james@123",
       "balance": 3000.0
+   },
+   {
+      "name": "Maria",
+      "password": "Maria@123",
+      "balance": 2000.0
+   },
+   {
+      "name": "Stephen Grider",
+      "password": "ste@123",
+      "balance": 1400.0
    }
 ]
